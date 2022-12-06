@@ -1,0 +1,1 @@
+bluetooth.start_accelerometer_service()
